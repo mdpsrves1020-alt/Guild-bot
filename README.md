@@ -40,5 +40,5 @@
 
 ১. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/ff-guild-bot.git](https://github.com/YOUR_USERNAME/ff-guild-bot.git)
+   git clone [https://github.com/mdpsrves1020-alt/Guild-bot.git](https://github.com/mdpsrves1020-alt/Guild-bot.git)
    cd ff-guild-bot
