@@ -1,0 +1,1 @@
+worker: python guild_glory_bot.py
